@@ -2,7 +2,13 @@
 
 A clickable prototype of a club and event discovery app for IIT Guwahati.
 
-**Try it:** https://prashantkumarsingh2903-bit.github.io/campusconnect-iitg/
+**Try the three prototypes:**
+
+| | Prototype | Link |
+|---|---|---|
+| 1 | OneStop Clubs: Clubs as a new part of the OneStop campus app | https://prashantkumarsingh2903-bit.github.io/campusconnect-iitg/prototype-1/ |
+| 2 | CampusConnect, first version | https://prashantkumarsingh2903-bit.github.io/campusconnect-iitg/prototype-2/ |
+| 3 | CampusConnect, the improved app (described below) | https://prashantkumarsingh2903-bit.github.io/campusconnect-iitg/ |
 
 It runs entirely in the browser. There's no backend, and all data is sample data.
 
